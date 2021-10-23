@@ -3,5 +3,5 @@ Spotium is a project I worked on for a while, and I want it to get out there mor
 
 ## **Requirements**
 
-**OS**	Windows 10 version 14393.351 or higher
-**Architecture**	x86
+* **OS**	Windows 10 version 14393.351 or higher
+* **Architecture**	x86
