@@ -8,3 +8,6 @@ Spotium is a runtime project coded and developed by vyze and tago. With lots of 
 
 * **OS**	Windows 10 version 14393.351 or higher
 * **Architecture**	x86
+
+
+**Contact me at: santiago@billeci.tk** *I take about 2-4 days for a reply.*
