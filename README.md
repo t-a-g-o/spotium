@@ -10,4 +10,4 @@ Spotium is a project coded and developed by vyze and tago. With lots of dedicati
 * **Architecture**	x86
 
 
-**Contact me at: santiago@billeci.tk** *I take about 2-4 days for a reply.*
+**Contact me at: santiago@billeci.net** *I take about 2-4 days for a reply.*
